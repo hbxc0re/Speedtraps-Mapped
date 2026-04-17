@@ -1,0 +1,1 @@
+Created a small Android app using some help from AI to map out all my alerts that I get from my Valentine One Gen Two radar detector that has an open API, it's still a working in progress, but so far it's working.
